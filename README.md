@@ -13,32 +13,32 @@ And with its user-friendly interface and intuitive navigation, It Services Compa
 So if you're ready to take your IT services company to the next level, download It Services Company Backend today and experience the power and flexibility of this game-changing open source project.
 Services-----------------
 
-https://it-company-backend.onrender.com/api/v1/service/all
-https://it-company-backend.onrender.com/api/v1/service/detail/64280dcf35ebf95bb37f7997
-https://it-company-backend.onrender.com/api/v1/service/save
-https://it-company-backend.onrender.com/api/v1/service/update/64280dcf35ebf95bb37f7997
-https://it-company-backend.onrender.com/api/v1/service/delete/64280dcf35ebf95bb37f7997
+* https://it-company-backend.onrender.com/api/v1/service/all
+* https://it-company-backend.onrender.com/api/v1/service/detail/64280dcf35ebf95bb37f7997
+* https://it-company-backend.onrender.com/api/v1/service/save
+* https://it-company-backend.onrender.com/api/v1/service/update/64280dcf35ebf95bb37f7997
+* https://it-company-backend.onrender.com/api/v1/service/delete/64280dcf35ebf95bb37f7997
 
 
 Blogs/Posts-----------------
- https://it-company-backend.onrender.com/all
- https://it-company-backend.onrender.com/detail/:id
- https://it-company-backend.onrender.com/save
- https://it-company-backend.onrender.com/update/:id
- https://it-company-backend.onrender.com/delete/:id
+ * https://it-company-backend.onrender.com/all
+ * https://it-company-backend.onrender.com/detail/:id
+ * https://it-company-backend.onrender.com/save
+ * https://it-company-backend.onrender.com/update/:id
+ * https://it-company-backend.onrender.com/delete/:id
 
 
 Pricing Plans-----------------
 
- https://it-company-backend.onrender.com/all
- https://it-company-backend.onrender.com/save
- https://it-company-backend.onrender.com/update/:id
- https://it-company-backend.onrender.com/delete/:id
+ * https://it-company-backend.onrender.com/all
+ * https://it-company-backend.onrender.com/save
+ * https://it-company-backend.onrender.com/update/:id
+ * https://it-company-backend.onrender.com/delete/:id
 
 Reviews-----------------
 
- https://it-company-backend.onrender.com/all
- https://it-company-backend.onrender.com/reviews/:serviceid
- https://it-company-backend.onrender.com/save
- https://it-company-backend.onrender.com/update/:id
- https://it-company-backend.onrender.com/delete/:id
+ * https://it-company-backend.onrender.com/all
+ * https://it-company-backend.onrender.com/reviews/:serviceid
+ * https://it-company-backend.onrender.com/save
+ * https://it-company-backend.onrender.com/update/:id
+ * https://it-company-backend.onrender.com/delete/:id
