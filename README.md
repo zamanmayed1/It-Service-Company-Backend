@@ -22,25 +22,3 @@ Services-----------------
 * https://it-company-backend.onrender.com/api/v1/service/delete/64280dcf35ebf95bb37f7997
 
 
-Blogs/Posts-----------------
- * https://it-company-backend.onrender.com/all
- * https://it-company-backend.onrender.com/detail/:id
- * https://it-company-backend.onrender.com/save
- * https://it-company-backend.onrender.com/update/:id
- * https://it-company-backend.onrender.com/delete/:id
-
-
-Pricing Plans-----------------
-
- * https://it-company-backend.onrender.com/all
- * https://it-company-backend.onrender.com/save
- * https://it-company-backend.onrender.com/update/:id
- * https://it-company-backend.onrender.com/delete/:id
-
-Reviews-----------------
-
- * https://it-company-backend.onrender.com/all
- * https://it-company-backend.onrender.com/reviews/:serviceid
- * https://it-company-backend.onrender.com/save
- * https://it-company-backend.onrender.com/update/:id
- * https://it-company-backend.onrender.com/delete/:id
