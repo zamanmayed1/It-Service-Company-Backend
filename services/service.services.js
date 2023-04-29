@@ -28,7 +28,6 @@ exports.updateAServiceService = async(req , res) => {
 
 exports.deleteAServiceService = async(req , res) => {
    let id = req.params.id
-    let updatedserviceItem = req.body
     let service = await Service.deleteOne({_id : id})
     return service;
 }
